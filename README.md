@@ -1,12 +1,9 @@
-## ICS3203-CAT2-Assembly--Owen-Muchemi-Riri-151778##
-Sure! Below is the full **README.md** for your **ICS3203 CAT2 - Assembly Language Processing** project, written entirely in markdown:
-
-```markdown
-## ICS3203 CAT2 - Assembly Language Processing (Owen Muchemi Riri)
+ICS3203-CAT2-Assembly--Owen-Muchemi-Riri-151778
+ICS3203 CAT2 - Assembly Language Processing (Owen Muchemi Riri)
 
 This repository contains the solutions for the **CAT2 (Assembly Language Processing)** project. The project involves various tasks in Assembly language, including input/output operations, control structures, recursion, and system call handling.
 
-## Project Overview
+ Project Overview
 
 This project contains the following key tasks:
 
@@ -32,9 +29,9 @@ This project contains the following key tasks:
 
 ---
 
-## Setup Instructions
+Setup Instructions
 
-### 1. Install Necessary Tools
+1. Install Necessary Tools
 Make sure you have the necessary tools installed for Assembly programming.
 
 On Ubuntu (WSL or Linux), you can install them using:
@@ -45,7 +42,7 @@ sudo apt install nasm
 sudo apt install gcc
 ```
 
-### 2. Clone the Repository
+ 2. Clone the Repository
 
 Clone the repository to your local machine:
 
@@ -54,7 +51,7 @@ git clone https://github.com/starboyririi/ICS3203-CAT2-Assembly--Owen-Muchemi-Ri
 cd ICS3203-CAT2-Assembly--Owen-Muchemi-Riri-151778
 ```
 
-### 3. Assemble the Code
+3. Assemble the Code
 
 To assemble a `.asm` file, use `nasm`:
 
@@ -62,7 +59,7 @@ To assemble a `.asm` file, use `nasm`:
 nasm -f elf32 your_code.asm -o your_code.o
 ```
 
-### 4. Link the Object File
+ 4. Link the Object File
 
 Once the code is assembled, link it with `gcc`:
 
@@ -70,7 +67,7 @@ Once the code is assembled, link it with `gcc`:
 gcc -m32 your_code.o -o your_program
 ```
 
-### 5. Run the Program
+ 5. Run the Program
 
 Execute the program:
 
@@ -80,9 +77,9 @@ Execute the program:
 
 ---
 
-## Task Descriptions
+ Task Descriptions
 
-### Task 1: Data Monitoring and Control Using Port-Based Simulation
+Task 1: Data Monitoring and Control Using Port-Based Simulation
 
 **Objective**: Simulate a water level sensor input and based on its value, control a motor and alarm system.
 
