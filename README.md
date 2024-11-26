@@ -1,8 +1,8 @@
-# ICS3203-CAT2-Assembly--Owen-Muchemi-Riri-151778
+## ICS3203-CAT2-Assembly--Owen-Muchemi-Riri-151778##
 Sure! Below is the full **README.md** for your **ICS3203 CAT2 - Assembly Language Processing** project, written entirely in markdown:
 
 ```markdown
-# ICS3203 CAT2 - Assembly Language Processing (Owen Muchemi Riri)
+## ICS3203 CAT2 - Assembly Language Processing (Owen Muchemi Riri)
 
 This repository contains the solutions for the **CAT2 (Assembly Language Processing)** project. The project involves various tasks in Assembly language, including input/output operations, control structures, recursion, and system call handling.
 
