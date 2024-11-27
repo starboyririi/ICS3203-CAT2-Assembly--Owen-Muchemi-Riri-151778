@@ -143,17 +143,4 @@ Task 1: Data Monitoring and Control Using Port-Based Simulation
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Sections of the README:
-
-- **Project Overview**: Gives an overview of the tasks involved in your CAT2 project.
-- **Requirements**: Lists tools and environments needed to run the project.
-- **Setup Instructions**: Details the steps to clone, set up, and run the code.
-- **Task Descriptions**: Describes each task in the project, including the objectives, approach, and key concepts.
-- **License**: Adds a placeholder for the MIT license or whichever license you use for your project.
-
-Make sure to adjust the repository link and task details based on your specific files. If you need further customization or clarification, feel free to ask!
